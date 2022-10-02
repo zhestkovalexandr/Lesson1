@@ -1,6 +1,6 @@
-﻿int numberA = 2;
-int numberB = 3;
-int numberC = 7;
+﻿int numberA = 44;
+int numberB = 5;
+int numberC = 78;
 int max = numberA;
 if (numberA>max) max = numberA;
 if (numberB>max) max = numberB;
