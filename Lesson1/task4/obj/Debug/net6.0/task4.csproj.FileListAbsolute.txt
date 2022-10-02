@@ -1,0 +1,16 @@
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\bin\Debug\net6.0\task4.exe
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\bin\Debug\net6.0\task4.deps.json
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\bin\Debug\net6.0\task4.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\bin\Debug\net6.0\ref\task4.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\bin\Debug\net6.0\task4.pdb
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.GlobalUsings.g.cs
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\ref\task4.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.pdb
+C:\Users\zhest\OneDrive\Рабочий стол\GB\ДЗ\C#\Lesson1\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
